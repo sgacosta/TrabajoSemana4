@@ -1602,8 +1602,12 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable pantallazo1
-drawable pantallazo2
+drawable pantallazo_01_menus_y_fragments
+drawable pantallazo_02_menus
+drawable pantallazo_03_menu_contacto
+drawable pantallazo_04_menu_contacto_envio_email
+drawable pantallazo_05_menu_biografia
+drawable pantallazo_06_fragment_perfil
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
